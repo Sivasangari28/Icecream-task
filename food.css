@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, sans-serif; 
+    max-width: 800px; 
+    margin: 20px auto; 
+    padding: 20px;
+    background: aquamarine; 
+}
+h1 { 
+    color: purple;
+    font-style: oblique 20deg; 
+}
+input, button { 
+    padding: 10px; 
+    font-size: 16px;
+    font-style: normal;
+    color:black;
+}
+.ice-cream-list { 
+    list-style: none; 
+    padding: 0; 
+}
+.ice-cream-item {
+     background: #fff; 
+     padding: 10px; 
+     margin-bottom: 5px; 
+     border-radius: 5px; 
+}
+.total-value {
+     margin-top: 20px; 
+     font-weight: bold; 
+     max-width: 200px; 
+}
+ 
